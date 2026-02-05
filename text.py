@@ -26,9 +26,9 @@ def main():
     print("Average:", avg)
 
     if avg > 50:
-        print("Average is high")
+        print("Average is really high")
     else:
-        print("Average is low")
+        print("Average is really low")
 
 
 if __name__ == "__main__":
